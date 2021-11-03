@@ -1,0 +1,16 @@
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\Shared.deps.json
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\Shared.dll
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\ref\Shared.dll
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\Shared.pdb
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\Core.dll
+E:\Repos\boilerplate-wep-api\Shared\bin\Debug\net6.0\Core.pdb
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.GlobalUsings.g.cs
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.dll
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\ref\Shared.dll
+E:\Repos\boilerplate-wep-api\Shared\obj\Debug\net6.0\Shared.pdb

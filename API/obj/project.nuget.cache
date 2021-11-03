@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0F5VWcaOwwjzPbvM3TnwPSNnzOgF0vs6fAjJEWAMBSlD1uxHsPmz1P1im+Mcl6Yj4g3YJFWexs36CXIGS0Riw==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\boilerplate-wep-api\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osmel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Osmel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Osmel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\Osmel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\Osmel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\Osmel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
