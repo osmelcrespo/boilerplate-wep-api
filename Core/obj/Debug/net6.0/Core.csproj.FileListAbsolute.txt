@@ -11,3 +11,15 @@ E:\Repos\boilerplate-wep-api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs
 E:\Repos\boilerplate-wep-api\Core\obj\Debug\net6.0\Core.dll
 E:\Repos\boilerplate-wep-api\Core\obj\Debug\net6.0\ref\Core.dll
 E:\Repos\boilerplate-wep-api\Core\obj\Debug\net6.0\Core.pdb
+F:\Repos\LA_BoilerPlate\Core\bin\Debug\net6.0\Core.deps.json
+F:\Repos\LA_BoilerPlate\Core\bin\Debug\net6.0\Core.dll
+F:\Repos\LA_BoilerPlate\Core\bin\Debug\net6.0\Core.pdb
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.dll
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\refint\Core.dll
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\Core.pdb
+F:\Repos\LA_BoilerPlate\Core\obj\Debug\net6.0\ref\Core.dll

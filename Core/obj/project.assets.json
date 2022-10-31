@@ -8,19 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Osmel\\.nuget\\packages\\": {}
+    "C:\\Users\\osmel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj",
+      "projectUniqueName": "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\Osmel\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\boilerplate-wep-api\\Core\\obj\\",
+      "projectPath": "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\osmel\\.nuget\\packages\\",
+      "outputPath": "F:\\Repos\\LA_BoilerPlate\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +35,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +59,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

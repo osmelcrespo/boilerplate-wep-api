@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\boilerplate-wep-api\\Shared\\Shared.csproj": {}
+    "F:\\Repos\\LA_BoilerPlate\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj": {
+    "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj",
+        "projectUniqueName": "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Osmel\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\boilerplate-wep-api\\Core\\obj\\",
+        "projectPath": "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\osmel\\.nuget\\packages\\",
+        "outputPath": "F:\\Repos\\LA_BoilerPlate\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,21 +61,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Repos\\boilerplate-wep-api\\Shared\\Shared.csproj": {
+    "F:\\Repos\\LA_BoilerPlate\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\boilerplate-wep-api\\Shared\\Shared.csproj",
+        "projectUniqueName": "F:\\Repos\\LA_BoilerPlate\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\Repos\\boilerplate-wep-api\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Osmel\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\boilerplate-wep-api\\Shared\\obj\\",
+        "projectPath": "F:\\Repos\\LA_BoilerPlate\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\osmel\\.nuget\\packages\\",
+        "outputPath": "F:\\Repos\\LA_BoilerPlate\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\osmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,14 +88,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj": {
-                "projectPath": "E:\\Repos\\boilerplate-wep-api\\Core\\Core.csproj"
+              "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj": {
+                "projectPath": "F:\\Repos\\LA_BoilerPlate\\Core\\Core.csproj"
               }
             }
           }
@@ -97,13 +110,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -112,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
